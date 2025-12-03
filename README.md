@@ -1,7 +1,3 @@
-Here is a clean, professional README you can paste directly into your GitHub repo:
-
----
-
 # AES-256 File Encryptor (Python + Tkinter)
 
 A simple and secure GUI-based file encryption tool built with **AES-256-GCM**, **PBKDF2 key derivation**, and **Tkinter** for an easy-to-use interface.
@@ -68,7 +64,7 @@ sudo apt install python3-tk
 ## ▶️ Run the Application
 
 ```
-python your_script_name.py
+python file_encryptor.py
 ```
 
 The GUI will open and allow you to:
