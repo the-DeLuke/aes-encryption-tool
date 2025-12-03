@@ -46,6 +46,12 @@ Decryption reverses this process using the same password.
 
 ## 📁 Installation
 
+### Clone the Repository
+```
+git clone [https://github.com/your-username/aes-encryption-tool.git](https://github.com/your-username/aes-encryption-tool.git)
+cd aes-encryption-tool
+```
+
 ### Install Dependencies
 
 ```
