@@ -1,6 +1,6 @@
 # AES-256 File Encryptor (Python + Tkinter)
 
-A simple and secure GUI-based file encryption tool built with **AES-256-GCM**, **PBKDF2 key derivation**, and **Tkinter** for an easy-to-use interface.
+A simple and secure GUI-based file encryption tool built with **AES-256-GCM**, **PBKDF2 key derivation**, and **Tkinter** for an easy to use interface.
 This application allows you to **encrypt** and **decrypt** any file using a password-based encryption system.
 
 ---
